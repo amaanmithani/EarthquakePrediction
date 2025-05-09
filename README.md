@@ -1,6 +1,14 @@
 # EarthquakePrediction
 A Data-Driven Lens into Earthquake Prediction Analysis
 
+Big Data Course- Spring 2025 NYU Tandon by Dr Amit Patel
+
+•	Kunaal Vadgama (kv2343)
+•	Nikhil Bhise (nb4053)
+•	Amaan Mithani (am14647)
+
+
+
 To run the code:
 1.	Set up a PySpark environment (locally or on Databricks).
 2.	Load the dataset (earthquakes-1990-2023.csv) into a Spark DataFrame.
